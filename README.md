@@ -1,5 +1,6 @@
 ## Giới thiệu cuộc thi ##
-Ngày nay việc biến đổi khí hậu cùng với nạn săn bắt trái phép đã khiến cho vấn đề về sụt giảm đa dạng sinh học trở nên cấp thiết. Từ đó, việc nghiên cứu và giám sát số lượng các loài cần được thực hiện thường xuyên và liên tục. Tuy nhiên với các động vật di trú như các loài chim, việc theo dõi, giám sát số lượng loài di trú với các phương pháp thủ công là một bài toán khó và tốn kém với các nhà nghiên cứu. \n
+Ngày nay việc biến đổi khí hậu cùng với nạn săn bắt trái phép đã khiến cho vấn đề về sụt giảm đa dạng sinh học trở nên cấp thiết. Từ đó, việc nghiên cứu và giám sát số lượng các loài cần được thực hiện thường xuyên và liên tục. Tuy nhiên với các động vật di trú như các loài chim, việc theo dõi, giám sát số lượng loài di trú với các phương pháp thủ công là một bài toán khó và tốn kém với các nhà nghiên cứu.
+
 Trong cuộc thi này, các nhà nghiên cứu tại Cornell Lab of Ornithology mong muốn có thể áp dụng giám sát âm thanh thụ động (PAM) kết hợp cùng các mô hình học máy để từ đó xác định được các loài đang trong diện nghiên cứu dựa vào âm học đặc trưng của chúng. Từ đó, các nhà khoa học có thể xác định được số lượng loài, cũng như sự hiện diện của chúng tại các khu vực đặt PAM (các khu vực cần nghiên cứu).
 ## Phương pháp tiếp cận cơ bản ##
 Tổng quan về phương pháp tiếp cận vấn đề trên của nhóm chúng tôi gồm các bước như sau:
